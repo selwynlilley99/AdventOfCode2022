@@ -1,0 +1,15 @@
+/Users/selwynlilley/Projects/adventofcode22/Day2/bin/Debug/net6.0/Day2
+/Users/selwynlilley/Projects/adventofcode22/Day2/bin/Debug/net6.0/Day2.deps.json
+/Users/selwynlilley/Projects/adventofcode22/Day2/bin/Debug/net6.0/Day2.runtimeconfig.json
+/Users/selwynlilley/Projects/adventofcode22/Day2/bin/Debug/net6.0/Day2.dll
+/Users/selwynlilley/Projects/adventofcode22/Day2/bin/Debug/net6.0/Day2.pdb
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.csproj.AssemblyReference.cache
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.AssemblyInfoInputs.cache
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.AssemblyInfo.cs
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.csproj.CoreCompileInputs.cache
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.dll
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/refint/Day2.dll
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.pdb
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/Day2.genruntimeconfig.cache
+/Users/selwynlilley/Projects/adventofcode22/Day2/obj/Debug/net6.0/ref/Day2.dll

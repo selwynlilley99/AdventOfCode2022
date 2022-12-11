@@ -1,0 +1,15 @@
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/bin/Debug/net6.0/AoCTemplate
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/bin/Debug/net6.0/AoCTemplate.deps.json
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/bin/Debug/net6.0/AoCTemplate.runtimeconfig.json
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/bin/Debug/net6.0/AoCTemplate.dll
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/bin/Debug/net6.0/AoCTemplate.pdb
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.csproj.AssemblyReference.cache
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.AssemblyInfoInputs.cache
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.AssemblyInfo.cs
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.csproj.CoreCompileInputs.cache
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.dll
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/refint/AoCTemplate.dll
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.pdb
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/AoCTemplate.genruntimeconfig.cache
+/Users/selwynlilley/Projects/adventofcode22/AoCTemplate/obj/Debug/net6.0/ref/AoCTemplate.dll
